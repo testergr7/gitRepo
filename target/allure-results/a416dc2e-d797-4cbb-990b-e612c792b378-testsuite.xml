@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1542704862593" stop="1542704899482" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1542704878145" stop="1542704898481" status="passed">
+            <name>CollapseExpandTest[Administrator,Passw0rd1234,MyName]</name>
+            <steps/>
+            <attachments>
+                <attachment title="ChromeDriver: chrome on XP (029323cf4b530b8d459e00187f4f449c)" source="75582949-ebad-42b1-a05f-5bf3d8f083af-attachment.png" type="image/png"/>
+            </attachments>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="eleks.eset.sample.SmokeTests"/>
+                <label name="testMethod" value="CollapseExpandTest"/>
+                <label name="host" value="win10entx64est"/>
+                <label name="thread" value="4444@win10entx64est.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
